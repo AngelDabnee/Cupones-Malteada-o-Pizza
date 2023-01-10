@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\bin\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.exe
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\bin\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.deps.json
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\bin\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\bin\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.dll
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\bin\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.pdb
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.dll
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\refint\Ejercicio 57. Cupones de malteada o pizza.dll
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.pdb
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\Ejercicio 57. Cupones de malteada o pizza.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 57. Cupones de malteada o pizza\Ejercicio 57. Cupones de malteada o pizza\obj\Debug\net6.0\ref\Ejercicio 57. Cupones de malteada o pizza.dll
